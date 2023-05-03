@@ -1,0 +1,2 @@
+java -jar tzupdater.jar -f -v -u -l file:./tzdata-latest.tar.gz
+
